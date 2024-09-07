@@ -18,3 +18,4 @@ Basta copiar esses diretórios e executar no VS Code (Infelizmente meu projeto n
 ## Sobre mim
 Este foi o meu primeiro projeto, confesso que achei bem difícil, mas esta é a carreira que eu quero seguir.
 Posso ter passado por poucas e boas para concluir esse projeto, mas sei que faz parte, quero continuar a aprender mais e mais!
+O Google Gwmini foi o meu grande amigo nesses dias de Imersão. Tenho que dizer, eu passei a gostar muito dele, vou utilizá-lo muito ainda na minha vida, disso eu tenho certeza.
